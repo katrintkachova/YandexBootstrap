@@ -1,11 +1,15 @@
-h2 {
-	font-family: 'Arial';
+.toogle_block h2{
+	
 	font-style: normal;
-	font-weight: 700;
-	font-size: 16px;
-	line-height: 18px;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 24px;
 
-	color: #2C3540;
-	margin-bottom: 32px;
+	/* Steel Gray/900 */
+
+	color: #0F172A;
 }
 
+.toogle_block  {
+	margin-top: 45px;
+}
